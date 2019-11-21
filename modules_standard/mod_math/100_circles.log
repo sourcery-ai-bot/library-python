@@ -1,0 +1,600 @@
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,127 - Circle No: 1
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,128 - Circle radius: 1.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,128 - Circle diameter: 2.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,129 - Circle area: 3.141592653589793 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,129 - Circumference: 6.283185307179586 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,129 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,129 - Circle No: 2
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,129 - Circle radius: 2.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,129 - Circle diameter: 4.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,130 - Circle area: 12.566370614359172 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,130 - Circumference: 12.566370614359172 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,130 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,130 - Circle No: 3
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,130 - Circle radius: 3.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,130 - Circle diameter: 6.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,130 - Circle area: 28.274333882308138 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,130 - Circumference: 18.84955592153876 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,130 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,130 - Circle No: 4
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,131 - Circle radius: 4.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,131 - Circle diameter: 8.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,131 - Circle area: 50.26548245743669 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,131 - Circumference: 25.132741228718345 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,131 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,131 - Circle No: 5
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,132 - Circle radius: 5.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,132 - Circle diameter: 10.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,132 - Circle area: 78.53981633974483 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,132 - Circumference: 31.41592653589793 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,132 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,133 - Circle No: 6
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,133 - Circle radius: 6.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,133 - Circle diameter: 12.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,133 - Circle area: 113.09733552923255 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,133 - Circumference: 37.69911184307752 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,133 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,133 - Circle No: 7
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,134 - Circle radius: 7.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,134 - Circle diameter: 14.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,134 - Circle area: 153.93804002589985 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,134 - Circumference: 43.982297150257104 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,134 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,134 - Circle No: 8
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,134 - Circle radius: 8.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,134 - Circle diameter: 16.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,134 - Circle area: 201.06192982974676 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,135 - Circumference: 50.26548245743669 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,135 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,135 - Circle No: 9
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,135 - Circle radius: 9.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,135 - Circle diameter: 18.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,136 - Circle area: 254.46900494077323 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,136 - Circumference: 56.548667764616276 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,136 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,136 - Circle No: 10
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,136 - Circle radius: 10.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,137 - Circle diameter: 20.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,137 - Circle area: 314.1592653589793 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,137 - Circumference: 62.83185307179586 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,137 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,137 - Circle No: 11
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,137 - Circle radius: 11.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,137 - Circle diameter: 22.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,138 - Circle area: 380.132711084365 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,138 - Circumference: 69.11503837897544 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,138 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,138 - Circle No: 12
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,138 - Circle radius: 12.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,138 - Circle diameter: 24.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,139 - Circle area: 452.3893421169302 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,139 - Circumference: 75.39822368615503 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,139 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,139 - Circle No: 13
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,139 - Circle radius: 13.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,139 - Circle diameter: 26.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,139 - Circle area: 530.929158456675 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,139 - Circumference: 81.68140899333463 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,140 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,140 - Circle No: 14
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,140 - Circle radius: 14.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,140 - Circle diameter: 28.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,140 - Circle area: 615.7521601035994 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,141 - Circumference: 87.96459430051421 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,141 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,141 - Circle No: 15
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,141 - Circle radius: 15.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,141 - Circle diameter: 30.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,141 - Circle area: 706.8583470577034 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,142 - Circumference: 94.24777960769379 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,142 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,142 - Circle No: 16
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,142 - Circle radius: 16.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,142 - Circle diameter: 32.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,142 - Circle area: 804.247719318987 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,143 - Circumference: 100.53096491487338 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,143 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,143 - Circle No: 17
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,143 - Circle radius: 17.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,143 - Circle diameter: 34.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,143 - Circle area: 907.9202768874502 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,144 - Circumference: 106.81415022205297 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,144 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,144 - Circle No: 18
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,144 - Circle radius: 18.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,144 - Circle diameter: 36.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,144 - Circle area: 1017.8760197630929 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,144 - Circumference: 113.09733552923255 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,144 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,144 - Circle No: 19
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,144 - Circle radius: 19.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,144 - Circle diameter: 38.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,144 - Circle area: 1134.1149479459152 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,145 - Circumference: 119.38052083641213 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,145 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,145 - Circle No: 20
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,145 - Circle radius: 20.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,145 - Circle diameter: 40.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,145 - Circle area: 1256.6370614359173 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,145 - Circumference: 125.66370614359172 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,145 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,145 - Circle No: 21
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,146 - Circle radius: 21.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,146 - Circle diameter: 42.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,146 - Circle area: 1385.4423602330987 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,146 - Circumference: 131.94689145077132 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,146 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,146 - Circle No: 22
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,146 - Circle radius: 22.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,146 - Circle diameter: 44.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,146 - Circle area: 1520.53084433746 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,146 - Circumference: 138.23007675795088 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,146 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,146 - Circle No: 23
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,147 - Circle radius: 23.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,147 - Circle diameter: 46.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,147 - Circle area: 1661.9025137490005 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,147 - Circumference: 144.51326206513048 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,147 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,147 - Circle No: 24
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,147 - Circle radius: 24.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,147 - Circle diameter: 48.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,147 - Circle area: 1809.5573684677208 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,147 - Circumference: 150.79644737231007 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,147 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,148 - Circle No: 25
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,148 - Circle radius: 25.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,148 - Circle diameter: 50.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,148 - Circle area: 1963.4954084936207 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,148 - Circumference: 157.07963267948966 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,148 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,148 - Circle No: 26
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,148 - Circle radius: 26.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,148 - Circle diameter: 52.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,148 - Circle area: 2123.7166338267 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,148 - Circumference: 163.36281798666926 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,149 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,149 - Circle No: 27
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,149 - Circle radius: 27.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,149 - Circle diameter: 54.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,149 - Circle area: 2290.221044466959 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,149 - Circumference: 169.64600329384882 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,149 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,149 - Circle No: 28
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,149 - Circle radius: 28.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,149 - Circle diameter: 56.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,149 - Circle area: 2463.0086404143976 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,149 - Circumference: 175.92918860102841 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,150 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,150 - Circle No: 29
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,150 - Circle radius: 29.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,150 - Circle diameter: 58.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,150 - Circle area: 2642.079421669016 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,150 - Circumference: 182.212373908208 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,150 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,150 - Circle No: 30
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,150 - Circle radius: 30.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,150 - Circle diameter: 60.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,151 - Circle area: 2827.4333882308138 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,151 - Circumference: 188.49555921538757 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,151 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,151 - Circle No: 31
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,151 - Circle radius: 31.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,151 - Circle diameter: 62.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,151 - Circle area: 3019.0705400997913 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,151 - Circumference: 194.77874452256717 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,151 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,151 - Circle No: 32
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,152 - Circle radius: 32.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,152 - Circle diameter: 64.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,152 - Circle area: 3216.990877275948 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,152 - Circumference: 201.06192982974676 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,152 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,152 - Circle No: 33
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,152 - Circle radius: 33.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,152 - Circle diameter: 66.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,152 - Circle area: 3421.194399759285 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,152 - Circumference: 207.34511513692635 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,153 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,153 - Circle No: 34
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,153 - Circle radius: 34.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,153 - Circle diameter: 68.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,153 - Circle area: 3631.681107549801 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,153 - Circumference: 213.62830044410595 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,153 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,153 - Circle No: 35
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,153 - Circle radius: 35.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,153 - Circle diameter: 70.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,153 - Circle area: 3848.4510006474966 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,153 - Circumference: 219.9114857512855 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,154 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,154 - Circle No: 36
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,154 - Circle radius: 36.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,154 - Circle diameter: 72.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,154 - Circle area: 4071.5040790523717 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,154 - Circumference: 226.1946710584651 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,154 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,154 - Circle No: 37
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,154 - Circle radius: 37.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,155 - Circle diameter: 74.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,155 - Circle area: 4300.840342764427 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,155 - Circumference: 232.4778563656447 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,155 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,155 - Circle No: 38
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,155 - Circle radius: 38.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,155 - Circle diameter: 76.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,155 - Circle area: 4536.459791783661 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,155 - Circumference: 238.76104167282426 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,155 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,155 - Circle No: 39
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,155 - Circle radius: 39.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,156 - Circle diameter: 78.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,156 - Circle area: 4778.362426110075 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,156 - Circumference: 245.04422698000386 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,156 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,156 - Circle No: 40
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,156 - Circle radius: 40.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,156 - Circle diameter: 80.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,156 - Circle area: 5026.548245743669 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,156 - Circumference: 251.32741228718345 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,156 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,156 - Circle No: 41
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,156 - Circle radius: 41.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,157 - Circle diameter: 82.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,157 - Circle area: 5281.017250684442 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,157 - Circumference: 257.610597594363 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,157 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,157 - Circle No: 42
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,157 - Circle radius: 42.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,157 - Circle diameter: 84.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,157 - Circle area: 5541.769440932395 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,158 - Circumference: 263.89378290154264 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,158 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,158 - Circle No: 43
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,158 - Circle radius: 43.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,158 - Circle diameter: 86.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,158 - Circle area: 5808.804816487527 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,158 - Circumference: 270.1769682087222 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,158 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,158 - Circle No: 44
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,159 - Circle radius: 44.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,159 - Circle diameter: 88.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,159 - Circle area: 6082.12337734984 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,159 - Circumference: 276.46015351590177 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,159 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,159 - Circle No: 45
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,159 - Circle radius: 45.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,159 - Circle diameter: 90.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,159 - Circle area: 6361.725123519331 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,159 - Circumference: 282.7433388230814 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,159 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,159 - Circle No: 46
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,160 - Circle radius: 46.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,160 - Circle diameter: 92.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,160 - Circle area: 6647.610054996002 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,160 - Circumference: 289.02652413026095 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,160 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,160 - Circle No: 47
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,160 - Circle radius: 47.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,160 - Circle diameter: 94.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,160 - Circle area: 6939.778171779853 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,160 - Circumference: 295.3097094374406 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,160 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,160 - Circle No: 48
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,161 - Circle radius: 48.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,161 - Circle diameter: 96.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,161 - Circle area: 7238.229473870883 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,161 - Circumference: 301.59289474462014 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,161 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,161 - Circle No: 49
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,161 - Circle radius: 49.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,161 - Circle diameter: 98.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,161 - Circle area: 7542.9639612690935 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,161 - Circumference: 307.8760800517997 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,161 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,161 - Circle No: 50
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,162 - Circle radius: 50.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,162 - Circle diameter: 100.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,162 - Circle area: 7853.981633974483 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,162 - Circumference: 314.1592653589793 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,162 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,162 - Circle No: 51
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,162 - Circle radius: 51.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,162 - Circle diameter: 102.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,162 - Circle area: 8171.282491987052 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,162 - Circumference: 320.4424506661589 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,163 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,163 - Circle No: 52
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,163 - Circle radius: 52.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,163 - Circle diameter: 104.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,163 - Circle area: 8494.8665353068 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,163 - Circumference: 326.7256359733385 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,163 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,163 - Circle No: 53
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,163 - Circle radius: 53.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,163 - Circle diameter: 106.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,164 - Circle area: 8824.73376393373 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,164 - Circumference: 333.0088212805181 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,164 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,164 - Circle No: 54
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,164 - Circle radius: 54.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,164 - Circle diameter: 108.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,165 - Circle area: 9160.884177867836 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,165 - Circumference: 339.29200658769764 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,165 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,165 - Circle No: 55
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,165 - Circle radius: 55.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,165 - Circle diameter: 110.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,165 - Circle area: 9503.317777109125 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,166 - Circumference: 345.57519189487726 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,166 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,166 - Circle No: 56
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,166 - Circle radius: 56.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,167 - Circle diameter: 112.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,167 - Circle area: 9852.03456165759 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,167 - Circumference: 351.85837720205683 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,167 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,167 - Circle No: 57
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,167 - Circle radius: 57.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,167 - Circle diameter: 114.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,167 - Circle area: 10207.034531513238 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,167 - Circumference: 358.1415625092364 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,168 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,168 - Circle No: 58
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,168 - Circle radius: 58.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,168 - Circle diameter: 116.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,168 - Circle area: 10568.317686676064 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,168 - Circumference: 364.424747816416 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,169 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,169 - Circle No: 59
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,169 - Circle radius: 59.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,169 - Circle diameter: 118.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,169 - Circle area: 10935.88402714607 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,169 - Circumference: 370.7079331235956 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,169 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,170 - Circle No: 60
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,170 - Circle radius: 60.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,170 - Circle diameter: 120.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,170 - Circle area: 11309.733552923255 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,170 - Circumference: 376.99111843077515 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,170 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,170 - Circle No: 61
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,170 - Circle radius: 61.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,170 - Circle diameter: 122.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,171 - Circle area: 11689.86626400762 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,171 - Circumference: 383.27430373795477 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,171 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,171 - Circle No: 62
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,171 - Circle radius: 62.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,171 - Circle diameter: 124.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,171 - Circle area: 12076.282160399165 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,171 - Circumference: 389.55748904513433 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,172 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,172 - Circle No: 63
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,172 - Circle radius: 63.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,172 - Circle diameter: 126.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,172 - Circle area: 12468.981242097889 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,172 - Circumference: 395.84067435231395 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,173 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,173 - Circle No: 64
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,173 - Circle radius: 64.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,173 - Circle diameter: 128.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,173 - Circle area: 12867.963509103793 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,174 - Circumference: 402.1238596594935 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,174 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,174 - Circle No: 65
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,174 - Circle radius: 65.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,174 - Circle diameter: 130.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,174 - Circle area: 13273.228961416877 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,174 - Circumference: 408.4070449666731 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,174 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,174 - Circle No: 66
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,174 - Circle radius: 66.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,175 - Circle diameter: 132.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,175 - Circle area: 13684.77759903714 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,175 - Circumference: 414.6902302738527 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,175 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,175 - Circle No: 67
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,175 - Circle radius: 67.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,176 - Circle diameter: 134.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,176 - Circle area: 14102.609421964582 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,176 - Circumference: 420.97341558103227 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,176 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,176 - Circle No: 68
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,176 - Circle radius: 68.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,176 - Circle diameter: 136.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,176 - Circle area: 14526.724430199203 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,176 - Circumference: 427.2566008882119 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,177 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,177 - Circle No: 69
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,177 - Circle radius: 69.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,177 - Circle diameter: 138.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,177 - Circle area: 14957.122623741005 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,177 - Circumference: 433.53978619539146 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,178 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,178 - Circle No: 70
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,178 - Circle radius: 70.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,178 - Circle diameter: 140.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,178 - Circle area: 15393.804002589986 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,178 - Circumference: 439.822971502571 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,178 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,178 - Circle No: 71
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,178 - Circle radius: 71.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,178 - Circle diameter: 142.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,178 - Circle area: 15836.768566746146 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,178 - Circumference: 446.10615680975064 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,179 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,179 - Circle No: 72
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,179 - Circle radius: 72.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,179 - Circle diameter: 144.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,179 - Circle area: 16286.016316209487 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,179 - Circumference: 452.3893421169302 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,179 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,179 - Circle No: 73
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,179 - Circle radius: 73.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,179 - Circle diameter: 146.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,179 - Circle area: 16741.54725098001 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,179 - Circumference: 458.6725274241098 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,180 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,180 - Circle No: 74
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,180 - Circle radius: 74.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,180 - Circle diameter: 148.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,180 - Circle area: 17203.36137105771 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,180 - Circumference: 464.9557127312894 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,180 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,180 - Circle No: 75
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,180 - Circle radius: 75.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,180 - Circle diameter: 150.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,180 - Circle area: 17671.458676442588 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,180 - Circumference: 471.23889803846896 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,181 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,181 - Circle No: 76
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,181 - Circle radius: 76.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,181 - Circle diameter: 152.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,181 - Circle area: 18145.839167134644 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,181 - Circumference: 477.5220833456485 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,181 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,181 - Circle No: 77
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,181 - Circle radius: 77.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,181 - Circle diameter: 154.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,182 - Circle area: 18626.502843133883 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,182 - Circumference: 483.80526865282815 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,182 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,182 - Circle No: 78
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,182 - Circle radius: 78.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,182 - Circle diameter: 156.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,182 - Circle area: 19113.4497044403 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,183 - Circumference: 490.0884539600077 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,183 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,183 - Circle No: 79
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,183 - Circle radius: 79.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,183 - Circle diameter: 158.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,183 - Circle area: 19606.6797510539 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,184 - Circumference: 496.37163926718733 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,184 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,184 - Circle No: 80
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,184 - Circle radius: 80.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,184 - Circle diameter: 160.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,184 - Circle area: 20106.192982974677 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,185 - Circumference: 502.6548245743669 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,185 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,185 - Circle No: 81
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,185 - Circle radius: 81.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,185 - Circle diameter: 162.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,185 - Circle area: 20611.989400202634 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,185 - Circumference: 508.93800988154646 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,185 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,185 - Circle No: 82
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,185 - Circle radius: 82.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,185 - Circle diameter: 164.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,185 - Circle area: 21124.069002737768 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,186 - Circumference: 515.221195188726 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,186 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,186 - Circle No: 83
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,186 - Circle radius: 83.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,186 - Circle diameter: 166.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,186 - Circle area: 21642.431790580085 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,186 - Circumference: 521.5043804959057 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,186 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,186 - Circle No: 84
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,186 - Circle radius: 84.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,186 - Circle diameter: 168.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,187 - Circle area: 22167.07776372958 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,187 - Circumference: 527.7875658030853 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,187 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,187 - Circle No: 85
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,187 - Circle radius: 85.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,187 - Circle diameter: 170.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,188 - Circle area: 22698.006922186254 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,188 - Circumference: 534.0707511102648 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,188 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,189 - Circle No: 86
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,189 - Circle radius: 86.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,189 - Circle diameter: 172.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,189 - Circle area: 23235.21926595011 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,189 - Circumference: 540.3539364174444 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,189 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,189 - Circle No: 87
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,189 - Circle radius: 87.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,190 - Circle diameter: 174.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,190 - Circle area: 23778.714795021144 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,190 - Circumference: 546.637121724624 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,190 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,190 - Circle No: 88
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,190 - Circle radius: 88.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,190 - Circle diameter: 176.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,190 - Circle area: 24328.49350939936 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,190 - Circumference: 552.9203070318035 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,190 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,190 - Circle No: 89
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,190 - Circle radius: 89.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,191 - Circle diameter: 178.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,191 - Circle area: 24884.55540908475 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,191 - Circumference: 559.2034923389832 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,191 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,191 - Circle No: 90
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,191 - Circle radius: 90.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,191 - Circle diameter: 180.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,191 - Circle area: 25446.900494077323 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,192 - Circumference: 565.4866776461628 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,192 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,192 - Circle No: 91
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,192 - Circle radius: 91.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,192 - Circle diameter: 182.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,192 - Circle area: 26015.528764377075 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,192 - Circumference: 571.7698629533423 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,192 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,192 - Circle No: 92
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,192 - Circle radius: 92.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,193 - Circle diameter: 184.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,193 - Circle area: 26590.440219984008 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,193 - Circumference: 578.0530482605219 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,193 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,193 - Circle No: 93
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,193 - Circle radius: 93.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,193 - Circle diameter: 186.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,193 - Circle area: 27171.63486089812 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,193 - Circumference: 584.3362335677015 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,193 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,193 - Circle No: 94
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,193 - Circle radius: 94.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,194 - Circle diameter: 188.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,194 - Circle area: 27759.112687119414 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,194 - Circumference: 590.6194188748811 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,194 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,194 - Circle No: 95
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,194 - Circle radius: 95.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,194 - Circle diameter: 190.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,194 - Circle area: 28352.873698647883 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,194 - Circumference: 596.9026041820607 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,194 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,194 - Circle No: 96
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,194 - Circle radius: 96.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,195 - Circle diameter: 192.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,195 - Circle area: 28952.917895483533 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,195 - Circumference: 603.1857894892403 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,195 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,195 - Circle No: 97
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,195 - Circle radius: 97.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,195 - Circle diameter: 194.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,195 - Circle area: 29559.245277626364 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,195 - Circumference: 609.4689747964198 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,195 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,195 - Circle No: 98
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,196 - Circle radius: 98.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,196 - Circle diameter: 196.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,196 - Circle area: 30171.855845076374 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,196 - Circumference: 615.7521601035994 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,196 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,196 - Circle No: 99
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,196 - Circle radius: 99.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,196 - Circle diameter: 198.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,196 - Circle area: 30790.74959783356 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,196 - Circumference: 622.0353454107791 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,197 - *********************************************
+INFO - 100_circles.py - 36 - 2019-11-20 21:20:47,197 - Circle No: 100
+INFO - 100_circles.py - 39 - 2019-11-20 21:20:47,197 - Circle radius: 100.0 metres
+INFO - 100_circles.py - 42 - 2019-11-20 21:20:47,197 - Circle diameter: 200.0 metres
+INFO - 100_circles.py - 45 - 2019-11-20 21:20:47,197 - Circle area: 31415.926535897932 square metres
+INFO - 100_circles.py - 48 - 2019-11-20 21:20:47,197 - Circumference: 628.3185307179587 metres
+INFO - 100_circles.py - 50 - 2019-11-20 21:20:47,198 - *********************************************
