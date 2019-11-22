@@ -12,6 +12,7 @@ ipython = "*"
 [packages]
 babel = "*"
 requests = "*"
+mypy = "*"
 
 [requires]
 python_version = "3.8"
