@@ -30,3 +30,10 @@ def div_frac(x, y):
     return divided
 
 print(div_frac(num, den))
+
+
+# As an illustration for adding improper fractions
+num = Fraction(11, 6)
+den = Fraction(5, 4)
+
+print(add_frac(num, den))
