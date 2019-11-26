@@ -1,7 +1,9 @@
 import logging
+import os
 from math import sqrt, pow
 
-filename = 'modules_standard/mod_math/quadratic_equation_calcs.log'
+DIR_LOC = os.path.dirname(os.path.realpath(__file__))
+filename = f"{DIR_LOC}{'/quadratic_equation_calcs.log'}"
 
 LOG_FORMAT = "%(levelname)s %(asctime)s - %(message)s"
 logging.basicConfig(

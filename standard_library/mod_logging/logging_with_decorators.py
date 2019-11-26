@@ -1,10 +1,12 @@
 from functools import wraps
 from logging import INFO, basicConfig, info
-from os import path
+import os
 from random import choice
 from time import gmtime, sleep, strftime
 
-logfile = 'modules_standard/mod_logging/display_info.log'
+DIR_LOC = os.path.dirname(os.path.realpath(__file__))
+
+logfile = f"{DIR_LOC}{'/display_info.log'}"
 
 # Set the format
 basicConfig(
@@ -14,7 +16,7 @@ basicConfig(
 )
 
 # Get the path of the current file
-info(f'Filename: {path.realpath(__file__)}')
+info(f'Filename: {os.path.realpath(__file__)}')
 
 # Get the current time
 info(f'Date/Time: {strftime("%d-%m-%y %H:%M:%S", gmtime())}')
@@ -23,7 +25,7 @@ info(f'\n')
 
 def my_logger(original_function):
     basicConfig(
-        filename=f'modules_standard/mod_logging/{original_function.__name__}.log',
+        filename=f"{DIR_LOC}{'/'}{original_function.__name__}.log",
         level=INFO, format="%(message)s"
     )
 

@@ -3,11 +3,13 @@ and is especially useful because the data logged persists after the lifetime of
 the code's execution. """
 
 from logging import basicConfig, INFO, info, Formatter
-from os import path
+import os
 from time import sleep, strftime, gmtime
 from datetime import datetime
 
-logfile = 'modules_standard/mod_logging/times_tables.log'
+DIR_LOC = os.path.dirname(os.path.realpath(__file__))
+
+logfile = f"{DIR_LOC}{'/times_tables.log'}"
 
 # Set the format
 basicConfig(
@@ -19,7 +21,7 @@ basicConfig(
 end_with = 20
 
 # Get the path of the current file
-info(f'Filename: {path.realpath(__file__)}')
+info(f'Filename: {os.path.realpath(__file__)}')
 
 # Get the current time
 info(f'Date/Time: {strftime("%d-%m-%y %H:%M:%S", gmtime())}')

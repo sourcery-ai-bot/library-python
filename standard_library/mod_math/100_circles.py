@@ -1,7 +1,9 @@
+import os
 from logging import basicConfig, DEBUG, getLogger
 from math import pi, pow
 
-filename = 'modules_standard/mod_math/100_circles.log'
+DIR_LOC = os.path.dirname(os.path.realpath(__file__))
+filename = f"{DIR_LOC}{'/100_circles.log'}"
 
 # Delete the exising log file
 with open(file=filename, mode='w') as log_file:
