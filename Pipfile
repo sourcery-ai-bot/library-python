@@ -13,6 +13,7 @@ ipython = "*"
 babel = "*"
 requests = "*"
 mypy = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.8"
