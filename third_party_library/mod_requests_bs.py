@@ -1,4 +1,5 @@
 import textwrap
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -11,7 +12,9 @@ if page_response.status_code == 200:
     word = str(word[0]).replace("<h1>",'').replace("</h1>",'')
     definition = page_content.select(".wotd-item__definition__text")
     definition = str(definition[0]).replace('<div class="wotd-item__definition__text">', '')
+    
     definition = textwrap.dedent(definition.replace("</div>", '')).strip()
+    definition = re.sub('<[^>]+>', '', definition)
     print(f"{'Word of the Day: '}{word}")
     print(f"{'Definition: '}{definition}")
 else:
