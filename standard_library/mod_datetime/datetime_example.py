@@ -3,13 +3,13 @@ from datetime import datetime, timedelta, timezone, date
 today = datetime.now(timezone.utc)
 tomorrow = today + timedelta(days=1)
 
-print(today, tomorrow, timedelta, timezone)
-# Prints 2018-11-25 17:42:39.445941+00:00 2018-11-26 17:42:39.445941+00:00
-# <class 'datetime.timedelta'> <class 'datetime.timezone'>
+print(f"{today = }")
+print(f"{tomorrow = }")
+print(f"{timedelta = }")
+print(f"{timezone = }")
 
 # Formatting of date/time (strftime is the String Format Time)
-print(today.strftime('%d-%m-%y %H:%M:%S.%f')[:-3])
-# 25-11-18 17:49:45.456
+print(f"{'strftime formatted string ='} {today.strftime('%d-%m-%y %H:%M:%S.%f')[:-3]}")
 
-# Prints Christmas date for 2019
-print(date(2019, 12, 25))
+# Prints Christmas Day date for 2019
+print(f"{'date example ='} {date(2019, 12, 25)}")
