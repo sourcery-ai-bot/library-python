@@ -3,6 +3,5 @@
 def greet(name, /, greeting='Hi'):
     return f'{greeting} {name}'
 
-
 print(greet('Wayne'))
 print(greet(['Wayne', 'Tony', 'Tom']))

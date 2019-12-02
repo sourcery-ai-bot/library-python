@@ -15,5 +15,5 @@ def is_string_abecederian(test_word: str) -> bool:
     if letters_tested == len(test_word):
         return True
 
-result = is_string_abecederian('Test')
+result = is_string_abecederian('Ant')
 print(result)

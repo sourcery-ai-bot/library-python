@@ -19,7 +19,7 @@ def my_for_loop1(iterable, func):
         else:
             func(thing)
 
-# Let's demonstrate this by calling the function using several methods
+# Demonstrate this by calling the function using several methods
 
 def square(num):
     print(num * num)

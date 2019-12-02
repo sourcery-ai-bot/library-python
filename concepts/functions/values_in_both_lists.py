@@ -4,6 +4,5 @@
 def intersection(list1, list2):
     return [value for value in list1 if value in list2]
 
-
 in_both_lists_list = intersection([1, 2, 3], [2, 3, 4])
-print(in_both_lists_list)
+print(f"{in_both_lists_list = }")

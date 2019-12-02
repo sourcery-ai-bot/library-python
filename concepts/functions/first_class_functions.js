@@ -1,12 +1,13 @@
-// Source: # == > https://www.youtube.com/watch?v=kr0mpwqttM0
+```
+Source: # == > https://www.youtube.com/watch?v=kr0mpwqttM0
 
-`A programming language is said to have first-class functions if it treats
+A programming language is said to have first-class functions if it treats
 functions as first class citizens.
 
-A first-class citizen (sometimes called first-class objects) in a 
+A first-class citizen (sometimes called first-class objects) in a
 programming language is an entity which supports all of the operations generally
 available to other entities.These operations typically include being passed
-as an argument, returned from a function, and assigned to a variable.`
+as an argument, returned from a function, and assigned to a variable.```
 
 function html_tag(tag) {
     function wrap_text(msg) {

@@ -27,15 +27,15 @@ def people_generator(num_people: int):
         yield person
 
 
-t1 = perf_counter()
-people = people_list(1000000)
-t2 = perf_counter()
+start_time = perf_counter()
+people = people_list(1_000_000)
+end_time = perf_counter()
 print(people)
 
-t1 = perf_counter()
-people = people_generator(1000000)
-t2 = perf_counter()
+start_time = perf_counter()
+people = people_generator(1_000_000)
+end_time = perf_counter()
 print(people)
 
 # Prints the time taken
-print(f'Taken: {t2 - t1}')
+print(f'Time Taken: {end_time - start_time}')

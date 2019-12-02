@@ -1,7 +1,4 @@
-# This function emulates a Select Case in VBA, or a Switch function in Excel,
-# Access or VBA
-# It uses a dictionary to store key and value data pairs
-
+# Emulates a Select Case in VBA; or a Switch function in Excel, Access or VBA
 
 def get_month_name(month_num):
     months = {
@@ -20,6 +17,6 @@ def get_month_name(month_num):
     }
     return months.get(month_num, "Invalid month")
 
-# Call function and assign the returned value to the answer variable
-answer = get_month_name(12)
-print(answer)    # prints 'December'
+# Call function and assign the returned value to the 'month_name' variable
+month_name = get_month_name(12)
+print(f"{month_name = }")  # Prints 'December'
