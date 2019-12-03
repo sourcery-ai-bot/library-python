@@ -2,10 +2,11 @@
 
 from collections import defaultdict
 from decimal import Decimal
+import string
 import requests
 from bs4 import BeautifulSoup
 
-ALPHABET = 'a'
+ALPHABET = string.ascii_lowercase
 BASE_URL = 'https://www.bbc.co.uk/news/politics/eu_referendum/results/local/'
 results = defaultdict(list)
 leave_votes, remain_votes = 0, 0
