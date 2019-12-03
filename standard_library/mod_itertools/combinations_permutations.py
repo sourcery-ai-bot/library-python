@@ -19,7 +19,7 @@ the order does not matter. This therefore means that there will be more
 permutations than there are combinations. """
 
 my_combinations = list(itertools.combinations(letters, 5))
-my_permutations = list(itertools.permutations(letters, 5))
-
 print(my_combinations)
+
+my_permutations = list(itertools.permutations(letters, 5))
 print(my_permutations)
