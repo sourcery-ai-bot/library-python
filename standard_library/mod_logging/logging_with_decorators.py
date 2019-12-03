@@ -16,22 +16,23 @@ basicConfig(
 )
 
 # Get the path of the current file
-info(f'Filename: {os.path.realpath(__file__)}')
+info(f"Filename: {os.path.realpath(__file__)}")
 
 # Get the current time
-info(f'Date/Time: {strftime("%d-%m-%y %H:%M:%S", gmtime())}')
-info(f'\n')
+info(f"Date/Time: {strftime('%d-%m-%y %H:%M:%S', gmtime())}")
+info(f"\n")
 
 
 def my_logger(original_function):
     basicConfig(
         filename=f"{DIR_LOC}{'/'}{original_function.__name__}.log",
-        level=INFO, format="%(message)s"
+        level=INFO,
+        format="%(message)s"
     )
 
     @wraps(original_function)
     def wrapper(*args, **kwargs):
-        info(f'Ran with args: {args}, and kwargs: {kwargs}')
+        info(f"Ran with args: {args}, and kwargs: {kwargs}")
         return original_function(*args, **kwargs)
 
     return wrapper
@@ -42,10 +43,10 @@ def my_timer(original_function):
 
     @wraps(original_function)
     def wrapper(*args, **kwargs):
-        t1 = time()
+        start_time = time()
         result = original_function(*args, **kwargs)
-        t2 = time() - t1
-        print(f'{original_function.__name__} ran in: {t2} sec')
+        time_taken = time() - start_time
+        print(f"{original_function.__name__} ran in: {time_taken} sec")
         return result
 
     return wrapper
@@ -55,7 +56,7 @@ def my_timer(original_function):
 @my_timer
 def display_info(name, age):
     sleep(1)
-    print(f'display_info ran with arguments (name={name}, age={age})')
+    print(f"display_info ran with arguments (name={name}, age={age})")
 
 
 names = ['Wayne', 'Carrie', 'Barrie', 'Rachael']
@@ -68,7 +69,7 @@ def make_selection(selection):
         selection = {
             'id': num,
             'person': choice(names),
-            'colour': choice(colours)
+            'colour': choice(colours),
         }
         result.append(selection)
     return result
