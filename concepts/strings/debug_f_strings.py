@@ -1,3 +1,4 @@
-weekend_days = ['sat', 'sun']
+weekend_days = ['Sat', 'Sun']
 
-print(f"{weekend_days=}")
+# Simple example showing how to use debugging f strings
+print(f"{weekend_days = }")
