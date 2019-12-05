@@ -8,6 +8,11 @@ pylint = "*"
 jupyter = "*"
 bpython = "*"
 ipython = "*"
+pytest = "*"
+pep8 = "*"
+autopep8 = "*"
+coverage = "*"
+pytest-cov = "*"
 
 [packages]
 babel = "*"
