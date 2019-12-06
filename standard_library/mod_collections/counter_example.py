@@ -2,7 +2,7 @@ from collections import Counter
 
 str_to_be_letter_counted = 'This is a test string'
 
-elements = Counter(str_to_be_letter_counted.replace(' ', '').lower()).elements()
+elements = Counter(str_to_be_letter_counted.replace(' ', '').casefold()).elements()
 # elements is an iterator (Chain) object
 print(elements)
 

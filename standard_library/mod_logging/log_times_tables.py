@@ -21,11 +21,11 @@ basicConfig(
 end_with = 20
 
 # Get the path of the current file
-info(f'Filename: {os.path.realpath(__file__)}')
+info(f"Filename: {os.path.realpath(__file__)}")
 
 # Get the current time
-info(f'Date/Time: {strftime("%d-%m-%y %H:%M:%S", gmtime())}')
-info(f'\n')
+info(f"Date/Time: {strftime('%d-%m-%y %H:%M:%S', gmtime())}")
+info(f"\n")
 
 for i in range(1, end_with + 1):
     print(f"{str(i)} {'times table...'}")

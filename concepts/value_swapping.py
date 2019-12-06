@@ -5,10 +5,10 @@
 a, b = 1, 2
 
 # Diaply them
-print(f"{'Original:'} {a}{','} {b}")            # Prints Original: 1, 2
+print(f"Original: {a}, {b}")            # Prints Original: 1, 2
 
 # Swap the values
 a, b = b, a
 
 # Show the swap
-print(f"{'Swapped:'} {a}{','} {b}")             # Prints Swapped: 2, 1
+print(f"Swapped: {a}, {b}")             # Prints Swapped: 2, 1

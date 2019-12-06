@@ -11,7 +11,7 @@ def fibonacci_list(previous, current, maximum):
     fib_nums = []
     for num in range(maximum):
         fib_nums.append(previous)
-        print('Fib', num, '=', previous)
+        print(f"Fib {num} = {previous}")
         previous, current = current, previous + current
     return fib_nums
 
@@ -52,4 +52,4 @@ def fibonacci_recursive(num):
 
 if __name__ == "__main__":
     for num in range(0, 101):
-        print('Fib', num, '=', fibonacci_recursive(num))
+        print(f"Fib {num} = {fibonacci_recursive(num)}")

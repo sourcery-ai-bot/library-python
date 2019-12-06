@@ -20,7 +20,7 @@ for letter in test_string:
     else:
         num_consonants += 1
 
-print(f"{num_vowels} {'vowels and'} {num_consonants} {'consonants'}")
+print(f"{num_vowels} vowels and {num_consonants} consonants")
 
 
 students = {

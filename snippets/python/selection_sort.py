@@ -15,4 +15,4 @@ if __name__ == '__main__':
     random_array = [49, 81, 1, 9, 36, 64, 81, 100, 4, 16, 25]
 
     sorted_list = selection_sort(random_array)
-    print(f'The sorted list is {sorted_list}')
+    print(f"The sorted list is {sorted_list}")

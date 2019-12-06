@@ -16,8 +16,7 @@ if match:
 
 # Extract an email address from a string
 pattern = r"([\w\.-]+)@([\w\.-]+)(\.[\w\.]+)"
-str = "If you would like more detail, please contact john.doe@gmail.com "
-"for assistance"
+str = "If you would like more detail, please contact john.doe@gmail.com for assistance"
 
 match = re.search(pattern, str)
 if match:

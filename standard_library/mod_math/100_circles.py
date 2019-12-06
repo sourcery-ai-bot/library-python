@@ -35,19 +35,19 @@ def diameter_of_circle(radius: float) -> float:
 
 
 for circle_num in range(1, 101):
-    logger.info(f'Circle No: {circle_num}')
+    logger.info(f"Circle No: {circle_num}")
 
     radius = float(circle_num)
-    logger.info(f'Circle radius: {radius} metres')
+    logger.info(f"Circle radius: {radius}m")
 
     diameter = diameter_of_circle(radius)
-    logger.info(f'Circle diameter: {diameter} metres')
+    logger.info(f"Circle diameter: {diameter}m")
 
     area = area_of_circle(radius)
-    logger.info(f'Circle area: {area} square metres')
+    logger.info(f"Circle area: {round(area,2)}m\u00b2")
 
     circumference = circumference_of_circle(radius)
-    logger.info(f'Circumference: {circumference} metres')
+    logger.info(f"Circumference: {round(circumference,2)}m")
 
     logger.info('*' * 45)
 

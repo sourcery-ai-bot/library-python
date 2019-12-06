@@ -16,4 +16,4 @@ def fibonacci_recursive(num):
 
 if __name__ == "__main__":
     for num in range(0, 101):
-        print(f"{'Fib'} {num} {'='} {fibonacci_recursive(num)}")
+        print(f"Fib {num} = {fibonacci_recursive(num)}")

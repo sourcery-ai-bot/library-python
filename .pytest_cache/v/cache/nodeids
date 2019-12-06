@@ -1,0 +1,7 @@
+[
+  "exercises/tests/test_functions.py::TestFindMatchingPairs::test_find_matching_pairs[original_list0-3-result0]",
+  "exercises/tests/test_functions.py::TestFindMatchingPairs::test_find_matching_pairs[original_list1-9-result1]",
+  "exercises/tests/test_functions.py::TestFindMatchingPairs::test_find_matching_pairs[original_list2-12-result2]",
+  "exercises/tests/test_functions.py::TestFindMatchingPairs::test_find_matching_pairs[original_list3-12-result3]",
+  "exercises/tests/test_functions.py::TestFindMatchingPairs::test_find_matching_pairs[original_list4-12-result4]"
+]

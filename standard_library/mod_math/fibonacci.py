@@ -9,7 +9,7 @@ def fibonacci_numbers_list(previous=0, current=1, number=25):
     fib_nums = []
     for i in range(number):
         fib_nums.append(previous)
-        print('fib', i, '=', previous)
+        print(f"fib {i} = {previous}")
         previous, current = current, previous + current
     return fib_nums
 
@@ -24,7 +24,7 @@ def fibonacci_numbers_generator(previous=0, current=1, number=101):
         previous, current = current, previous + current
         yield previous
         count += 1
-        print(f'Fib {count} = {previous}')
+        print(f"Fib {count} = {previous}")
 
 
 """
