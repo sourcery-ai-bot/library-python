@@ -17,7 +17,7 @@ function selectionSort(array) {
   return array;
 }
 
-randomArray = [49, 81, 1, 9, 36, 64, 81, 100, 4, 16, 25]
+unsortedSquareNums = [49, 81, 1, 9, 36, 64, 81, 100, 4, 16, 25]
 
-sortedList = selectionSort(randomArray);
-console.log(`The sorted list is ${sortedList}`);
+sortedSquareNums = selectionSort(unsortedSquareNums);
+console.log(`The sorted square numbers list is ${sortedSquareNums}`);

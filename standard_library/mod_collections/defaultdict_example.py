@@ -5,6 +5,7 @@ sample_dict = defaultdict(list)
 print(type(sample_dict))
 
 print('{:*^100}'.format(''))
+print('*' *100)
 
 sample_dict['key_1'].append(1)
 sample_dict['key_1'].append(2)

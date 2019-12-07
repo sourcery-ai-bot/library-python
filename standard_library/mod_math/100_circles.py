@@ -52,4 +52,4 @@ for circle_num in range(1, 101):
     logger.info('*' * 45)
 
 
-print(f"{'Logging output at'} /{filename}")
+print(f"Logging output at /{filename}")

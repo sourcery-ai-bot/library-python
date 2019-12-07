@@ -12,7 +12,7 @@ def selection_sort(array):
 
 
 if __name__ == '__main__':
-    random_array = [49, 81, 1, 9, 36, 64, 81, 100, 4, 16, 25]
+    unsorted_square_nums = [49, 81, 1, 9, 36, 64, 81, 100, 4, 16, 25]
 
-    sorted_list = selection_sort(random_array)
-    print(f"The sorted list is {sorted_list}")
+    sorted_square_nums = selection_sort(unsorted_square_nums)
+    print(f"The sorted square numbers list is {sorted_square_nums}")

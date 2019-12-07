@@ -5,7 +5,7 @@ the code's execution. """
 from logging import basicConfig, INFO, info, Formatter
 import os
 from time import sleep, strftime, gmtime
-from datetime import datetime
+
 
 DIR_LOC = os.path.dirname(os.path.realpath(__file__))
 
@@ -28,6 +28,6 @@ info(f"Date/Time: {strftime('%d-%m-%y %H:%M:%S', gmtime())}")
 info(f"\n")
 
 for i in range(1, end_with + 1):
-    print(f"{str(i)} {'times table...'}")
+    print(f"{str(i)} times table...")
     for j in range(1, end_with + 1):
-        print(f"\t{i} {chr(215)} {j} {'='} {i*j}")
+        print(f"\t{i} {chr(215)} {j} = {i*j}")
