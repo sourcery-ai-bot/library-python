@@ -1,5 +1,3 @@
-# The pdb module enables debugging
-
 import pdb
 
 first = "First"

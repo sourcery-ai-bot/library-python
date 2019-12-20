@@ -14,4 +14,4 @@ person1 = Person('Mr', 'Wayne', 'Lambert', 'Male')
 print(person1)
 
 title1, first_name1, last_name1, gender1 = person1
-print(f'{title1}. {first_name1} {last_name1} is {gender1}')
+print(f"{title1}. {first_name1} {last_name1} is {gender1}")

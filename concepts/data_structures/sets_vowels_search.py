@@ -1,11 +1,13 @@
-" Uses the intersection method of the set object to find vowels in a given string "
+""" Uses the intersection method of the set data structure
+    to find vowels present in a given string """
 
 def vowels_search(string: str) -> set:
-    """ Returns `True` in case where vowels found
-    in addition to the field found themselves """
+    """ Prints `True` where vowels are found """
     vowels = set('aeiou')
     found = vowels.intersection(set(string))
     print(bool(found))
+    
+    """ Prints the vowels found within the set intersection """
     for vowel in found:
         print(vowel)
 
