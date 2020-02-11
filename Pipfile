@@ -17,8 +17,8 @@ pytest-cov = "*"
 [packages]
 babel = "*"
 requests = "*"
-mypy = "*"
 beautifulsoup4 = "*"
+mypy = "*"
 
 [requires]
 python_version = "3.8"
