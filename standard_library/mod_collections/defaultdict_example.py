@@ -20,3 +20,23 @@ print(sample_dict)
 
 for key, value in sample_dict.items():
     print(key, value)
+
+
+# Another example of defaultdict
+from collections import defaultdict
+
+row_genres = ['Action|Adventure|Fantasy|Sci-Fi',
+                'Action|Adventure|Fantasy',
+                'Action|Adventure|Thriller',
+                'Action|Thriller',
+                'Documentary',
+                'Action|Adventure|Sci-Fi']
+
+
+genre_counts = defaultdict(int)
+for row_genre in row_genres:
+    genres = row_genre.split('|')
+    for genre in genres:
+        genre_counts[genre] += 1
+
+print(genre_counts)
