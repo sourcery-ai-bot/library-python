@@ -1,3 +1,6 @@
+""" The code here will not run in this repository.
+    It exists as a reference for any Django projects. """
+
 from django import template
 
 register = template.Library()
