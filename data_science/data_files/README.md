@@ -1,4 +1,4 @@
-# Data files
+# Data Files
 
 ![Data Science](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/data_science.jpg)
 
