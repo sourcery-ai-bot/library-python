@@ -1,6 +1,6 @@
 # Data Science Jupyter Notebooks
 
-![Data Science](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/data_science.jpg)
+![Data Science Jupyter Notebooks](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/data_science_jupyter_notebooks.png)
 
 Explore fascinating datasets using libraries such as _‘Pandas’_, _‘NumPy’_, _‘Matplotlib’_ and _‘Seaborn’_.
 
