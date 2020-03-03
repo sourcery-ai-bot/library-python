@@ -4,3 +4,7 @@
 .pytest_cache/*
 *__pycache__*
 logs/*
+
+# Ignored Files
+data_science/notebooks/stack_overflow.ipynb
+data_science/data_files/test.csv
