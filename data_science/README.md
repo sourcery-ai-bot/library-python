@@ -1,6 +1,6 @@
 # Data Science Projects
 
-![Data Science](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/data_science.jpg)
+![Python Data Science](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/python_data_science.png)
 
 A variety of Data Science projects used to demonstrate skills with packages included in the Anaconda distribution such as _'Pandas'_, _'Numpy'_, _'Matplotlib'_ and _'Seaborn'_.
 
