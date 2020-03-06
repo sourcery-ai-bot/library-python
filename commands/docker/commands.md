@@ -1,6 +1,6 @@
 # Docker Commands
 
-## Admin Commands
+## [System Commands](https://docs.docker.com/engine/reference/commandline/system/)
 
 ### Check Status of All Images, Containers and Volumes
 
@@ -14,9 +14,9 @@ $ `docker network inspect bridge`
 
 $ `docker system prune`
 
-$ `docker system prune --volumes`    (includes the removal of all unused volumes)
+$ `docker system prune --volumes`    (NOTE: includes the removal of all unused volumes)
 
-## Container Commands
+## [Container Commands](https://docs.docker.com/engine/reference/commandline/container/)
 
 ### Stop All Running Containers
 
@@ -34,7 +34,7 @@ $ `docker container prune`
 
 $ `docker rm -f $(docker ps -a -q)`
 
-## Image Commands
+## [Image Commands](https://docs.docker.com/engine/reference/commandline/image/)
 
 ### Remove a Specific Image
 
@@ -52,11 +52,11 @@ You can also use the far simpler command:
 
 $ `docker image prune`
 
-## Volume Commands
+## [Volume Commands](https://docs.docker.com/engine/reference/commandline/volume_prune/)
 
-### Prune All Volumes
+### Remove All Volumes Not Attached to a Running Container
 
-$ `docker system prune --volumes -f`
+$ `docker volume prune`
 
 ### Remove Dangling Volumes
 
