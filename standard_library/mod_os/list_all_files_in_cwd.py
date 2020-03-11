@@ -3,8 +3,6 @@
 from os import listdir, curdir
 from os.path import join, isfile
 
-cwd = curdir
-
 def walk(dirname):
     for name in listdir(dirname):
         path = join(dirname, name)
@@ -14,4 +12,4 @@ def walk(dirname):
         else:
             walk(path)
 
-print(walk(cwd))
+print(walk(curdir))
