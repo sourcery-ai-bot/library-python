@@ -74,6 +74,12 @@ docker image prune
 
 ## [Volume Commands](https://docs.docker.com/engine/reference/commandline/volume_prune/)
 
+### Remove a Specific Volume
+
+```sh
+docker volume rm <volume-name-or-id>
+```
+
 ### <span style="color: red;">Remove All Volumes Not Attached to a Running Container</span>
 
 ```sh
