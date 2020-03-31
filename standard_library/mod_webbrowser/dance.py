@@ -8,7 +8,7 @@ import requests
 # Change variables according to use case
 MUSIC_VIDEO = 'https://www.youtube.com/watch?v=ZPm3FSTbrQ4'
 SEARCH_TERM = 'dance'
-API_KEY = '0SFX7B1U4F5G'
+API_KEY = os.environ['TENOR_API_KEY']
 GIF_LIMIT = 20
 GIF_KICKIN_TIME = 5
 CHANGE_GIF_TIME = 3
