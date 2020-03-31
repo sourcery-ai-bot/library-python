@@ -19,6 +19,7 @@ babel = "*"
 requests = "*"
 beautifulsoup4 = "*"
 mypy = "*"
+googlemaps = "==4.2.0"
 
 [requires]
 python_version = "3.8"
