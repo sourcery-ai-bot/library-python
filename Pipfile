@@ -15,6 +15,11 @@ coverage = "==5.1"
 pytest-cov = "==2.8.1"
 
 [packages]
+babel = "==2.8.0"
+beautifulsoup4 = "*"
+mypy = "==0.770"
+googlemaps = "==4.2.0"
+requests = "==2.23.0"
 
 [requires]
 python_version = "3.8"
