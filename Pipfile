@@ -4,22 +4,17 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-pytest = "*"
-pylint = "*"
-jupyter = "*"
-bpython = "*"
-ipython = "*"
+pytest = "==5.4.1"
+pylint = "==2.4.4"
+jupyter = "==1.0.0"
+bpython = "==0.19"
+ipython = "==7.13.0"
 pep8 = "*"
-autopep8 = "*"
-coverage = "*"
-pytest-cov = "*"
+autopep8 = "==1.5.1"
+coverage = "==5.1"
+pytest-cov = "==2.8.1"
 
 [packages]
-babel = "*"
-requests = "*"
-beautifulsoup4 = "*"
-mypy = "*"
-googlemaps = "==4.2.0"
 
 [requires]
 python_version = "3.8"
