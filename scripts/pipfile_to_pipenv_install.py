@@ -1,8 +1,6 @@
-""" Converts the contents of a pinned Pipfile into a executable shell script
-    with the applicable `pipenv install ...` commands to rebuild the pipenv
-    virtual environment from scratch. """
-
-import os
+""" Converts the contents of a Pipfile into a executable shell script with the
+    applicable `pipenv install ...` commands to rebuild the pipenv virtual
+    environment from scratch. """
 
 with open(file='Pipfile', mode='r') as file:
 
@@ -17,7 +15,7 @@ with open(file='Pipfile', mode='r') as file:
         if '*' in line:
             open_version = line.replace(' = "*"', '').strip('\n')
             install_str += f' {open_version}'
-    final_dev_packages_install_str = f"{install_str} {'--dev'}"
+    dev_packages_install_str = f"{install_str} {'--dev'}"
 
     # Creates the string for the project's [packages] list
     install_str = 'pipenv install'
@@ -30,12 +28,10 @@ with open(file='Pipfile', mode='r') as file:
         if '*' in line:
             open_version = line.replace(' = "*"', '').strip('\n')
             install_str += f' {open_version}'
-    final_packages_install_str = install_str
+    packages_install_str = install_str
 
     nl = '\n'
-    overall_install_str = f"{final_dev_packages_install_str}{nl}{final_packages_install_str}"
+    overall_install_str = f"{dev_packages_install_str}{nl}\{packages_install_str}"
 
     with open(file='pipenv_install.sh', mode='w') as file:
         file.write(overall_install_str)
-
-os.popen('sh pipenv_install.sh')
