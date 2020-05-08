@@ -21,3 +21,11 @@ docker-compose exec web python manage.py shell -i ipython
 ```sh
 docker-compose exec web python manage.py shell -i bpython
 ```
+
+### bPython in Shell Plus
+
+This method means that all of the Django models are loaded upon startup to save any importing. This requires `django-extensions` to be installed.
+
+```sh
+docker-compose exec web python manage.py shell_plus bpython
+```
