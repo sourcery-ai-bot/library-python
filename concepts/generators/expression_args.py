@@ -7,6 +7,6 @@ for cubed_num in cubed_nums:
     print(cubed_num)
 
 # It could also have been cast as a list to return a single object
-cubed_nums = list(num ** 3 for num in nums)
+cubed_nums = [num ** 3 for num in nums]
 
 print(cubed_nums)

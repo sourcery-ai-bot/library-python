@@ -4,9 +4,8 @@ actually a different object in Python's memory. This is demonstrated by the ID
 being different upon each iteration. The integer, i, is being rebound each time.
 """
 
-i = 1
+
 ids = []
-while i <= 5:
+for i in range(1, 6):
     ids.append(id(i))
     print(f"iteration {i} makes list become {ids}")
-    i += 1

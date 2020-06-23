@@ -19,11 +19,9 @@ fibonacci_numbers_list(previous=0, current=1, number=51)
 
 # An alternative function using a generator and a while loop
 def fibonacci_numbers_generator(previous=0, current=1, number=101):
-    count = 0
-    while count < number:
+    for count in range(1, number + 1):
         previous, current = current, previous + current
         yield previous
-        count += 1
         print(f"Fib {count} = {previous}")
 
 
@@ -31,5 +29,6 @@ def fibonacci_numbers_generator(previous=0, current=1, number=101):
 A loop that recursively calls the fibonnaci_numbers_generator function.
 The `pass` function is merely there because the function requires it.
 """
-for num in fibonacci_numbers_generator(previous=0, current=1, number=101):
+
+for _ in fibonacci_numbers_generator(previous=0, current=1, number=101):
     pass
