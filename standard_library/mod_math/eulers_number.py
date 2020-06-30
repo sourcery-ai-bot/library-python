@@ -17,7 +17,7 @@ def eulernumber(d):
         term *= x / Decimal(m)
         m += 1
         expsum += term
-    for k in range(n):
+    for _ in range(n):
         expsum *= expsum
     getcontext().prec = d
     expsum += Decimal(0)

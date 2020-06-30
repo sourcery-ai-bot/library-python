@@ -31,7 +31,7 @@ def run():
     while True:
         webbrowser.get('chrome').open(new_gif, new=2)
         last_gif = new_gif
-        while new_gif == last_gif:
+        while last_gif == last_gif:
             new_gif = get_new_gif()
         time.sleep(CHANGE_GIF_TIME)
 
